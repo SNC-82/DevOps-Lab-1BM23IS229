@@ -2,7 +2,7 @@
 
 **Repository:** DevOps-Lab-1BM23IS229
 
-This repository contains the prescribed DevOps lab exercises completed as part of the coursework for CIE and SEE evaluation.
+This repository contains the 10 DevOps lab exercises completed as part of the coursework for CIE and SEE evaluation.
 
 ## Exercises
 
